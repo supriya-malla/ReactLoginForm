@@ -6,10 +6,10 @@ import ForgotPassword from './containers/ForgotPassword'
 
 function App() {
   return (
-    <BrowserRouter basename={window.location.pathname || ''}>
+    <BrowserRouter basename='/ReactLoginForm'>
       <Switch>
-        <Route path='/login' component={LoginForm} />
-        <Route path='/forgot_password' component={ForgotPassword} />
+        <Route exact path='/login' component={LoginForm} />
+        <Route exact path='/forgot_password' component={ForgotPassword} />
         <Route exact path="/">
           <Redirect to="/login" />
         </Route>
