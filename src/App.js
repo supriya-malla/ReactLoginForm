@@ -6,7 +6,7 @@ import ForgotPassword from './containers/ForgotPassword'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
       <Switch>
         <Route path='/login' component={LoginForm} />
         <Route path='/forgot_password' component={ForgotPassword} />
