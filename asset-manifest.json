@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactLoginForm/static/css/main.aba0e2fd.chunk.css",
-    "main.js": "/ReactLoginForm/static/js/main.231469b8.chunk.js",
-    "main.js.map": "/ReactLoginForm/static/js/main.231469b8.chunk.js.map",
+    "main.js": "/ReactLoginForm/static/js/main.424a0977.chunk.js",
+    "main.js.map": "/ReactLoginForm/static/js/main.424a0977.chunk.js.map",
     "runtime-main.js": "/ReactLoginForm/static/js/runtime-main.0204b42d.js",
     "runtime-main.js.map": "/ReactLoginForm/static/js/runtime-main.0204b42d.js.map",
     "static/js/2.4dba987b.chunk.js": "/ReactLoginForm/static/js/2.4dba987b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0204b42d.js",
     "static/js/2.4dba987b.chunk.js",
     "static/css/main.aba0e2fd.chunk.css",
-    "static/js/main.231469b8.chunk.js"
+    "static/js/main.424a0977.chunk.js"
   ]
 }
